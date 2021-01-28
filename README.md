@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-
+# Exploratory Data Analysis to identify patterns that can explain loan deafult behaviour
  Using Exploratory Data Analysis to identify patterns and important variables that can explain loan default.
 
 
